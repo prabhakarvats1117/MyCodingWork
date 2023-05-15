@@ -1,0 +1,5 @@
+Brick1 = How to swap two variables with the help of third variable ?
+Brick2 = How to swap two variables without using third variable?
+Brick3 = WAP to find the sum of digit of the given number?
+Brick4 = WAP to find whether the given number is palendrone or not?
+Brick5 = Find the Factorial of a number?
